@@ -1,0 +1,23 @@
+{
+  "name": "expjsvh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon vhostserver.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaiekaie/ExpressJsVirtuallhost.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaiekaie/ExpressJsVirtuallhost/issues"
+  },
+  "homepage": "https://github.com/kaiekaie/ExpressJsVirtuallhost#readme",
+  "devDependencies": {
+    "express": "^4.15.4",
+    "vhost": "^3.0.2"
+  }
+}
